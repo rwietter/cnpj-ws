@@ -1,7 +1,7 @@
 # Sobre o CONSULTA-CNPJ-WS
 [![Build Status](https://travis-ci.com/jos3duardo/cnpj-ws.svg?branch=master)](https://travis-ci.com/rwietter/cnpj-ws)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://travis-ci.com/rwietter/cnpj-ws)
-[![npm downloads](https://img.shields.io/npm/dm/cnpj-ws.svg)](https://www.npmjs.com/package/cnpj-ws)<br />
+[![npm downloads](https://img.shields.io/npm/dm/cnpj-receita-federal.svg)](https://www.npmjs.com/package/cnpj-receita-federal)<br />
 
 Este é um pacote que permite consultas gratuitas de CNPJ no site da Receita Federal Brasileira a partir do uso [ desta api](https://receitaws.com.br/api).  
 Este serviço apesar de ser gratuito possui algumas limitações mostradas no final desta pagina e também [neste link](https://receitaws.com.br/pricing).
